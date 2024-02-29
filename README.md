@@ -1,6 +1,6 @@
 # Pizza App
 ### Description
 
-**Student:** Batyrkhan Tursumbekov
+**Student:** Batyrkhan Tursumbekov__
 **Instructor:** Mansur Zhanbolat
 
